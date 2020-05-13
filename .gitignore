@@ -2,6 +2,10 @@
 __pycache__
 venv
 
+# Django stuff:
+*.log
+local_settings.py
+
 # OS generated files #
 ######################
 .DS_Store

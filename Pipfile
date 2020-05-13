@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+babel = "*"
+python-dateutil = "==2.6.0"
+Flask-Moment = "*"
+Flask-WTF = "*"
+
+[requires]
+python_version = "3.7"
